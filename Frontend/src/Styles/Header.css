@@ -1,0 +1,12 @@
+header{
+    background-color: #101a74;
+    width: 100vw;
+    height: 7.5vh;
+}
+h1{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 1.4vh;
+}

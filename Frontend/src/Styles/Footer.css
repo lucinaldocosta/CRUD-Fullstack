@@ -1,0 +1,16 @@
+footer{
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+    height: 8vh;
+    top: 3.99px;
+    background-color: #101a74;
+}
+.copyright{
+    text-align: center;
+    padding: 2.5vh 0;
+    font-weight: bold;
+    color: #eee;
+    font-size: 1.2rem;
+}
